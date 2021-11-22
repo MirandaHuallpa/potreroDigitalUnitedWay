@@ -24,9 +24,11 @@ Tanto para los lugareños como para los turistas.
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>Bootstrap</li>
+  <li>y Bootstrap.</li>
+  <li>Además para diseñar los logos usé CANVAS</li>
 </ul>
 
+!Espero que les guste!
 <img src="imagenes_profesionales/screenshots/screen1.png">
 <img src="imagenes_profesionales/screenshots/screen2.png">
 <img src="imagenes_profesionales/screenshots/screen3.png">
