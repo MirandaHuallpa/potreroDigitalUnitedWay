@@ -24,3 +24,4 @@ Tanto para los lugareños como para los turistas.
 <img src="imagenes_profesionales/screenshots/screen2.png">
 <img src="imagenes_profesionales/screenshots/screen3.png">
 <img src="imagenes_profesionales/screenshots/screen4.png">
+<img src="imagenes_profesionales/screenshots/screen5.png">
