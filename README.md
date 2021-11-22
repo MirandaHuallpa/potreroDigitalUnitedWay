@@ -21,6 +21,6 @@ cliente y que deguste los platillos hechos por manos profesionales y a la vez ca
 Tanto para los lugareños como para los turistas.
 
 <img src="imagenes_profesionales/screenshots/screen1.png">
-<img src="imagenes_profesionales/screenshots/screen1.png">
-<img src="imagenes_profesionales/screenshots/screen1.png">
-<img src="imagenes_profesionales/screenshots/screen1.png">
+<img src="imagenes_profesionales/screenshots/screen2.png">
+<img src="imagenes_profesionales/screenshots/screen3.png">
+<img src="imagenes_profesionales/screenshots/screen4.png">
