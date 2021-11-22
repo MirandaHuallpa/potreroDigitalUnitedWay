@@ -1,0 +1,14 @@
+@import "./navbar.css";
+@import "./carousel.css";
+@import "./footer.css";
+@import "./map.css";
+@import "./info-empresa.css";
+
+body {
+    font-family: "futura", serif !important;
+    font-weight: 400;
+    font-size: 1rem !important;
+    line-height: 32px;
+    color: #000000;
+    min-width: 100vh;
+}

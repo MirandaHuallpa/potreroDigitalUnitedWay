@@ -1,0 +1,92 @@
+.mad-footer {
+    position: relative;
+    color: #e2f5ff;
+    padding: 8rem 0;
+    background-color: #fc6d2c;
+    background-size: contain;
+    font-size: 20px;
+}
+
+/*----LINKS----*/
+.mad-footer a {
+    color: #f5f7f8;
+    text-decoration: none; outline: none !important;
+    vertical-align: baseline;
+}
+
+.mad-footer a:hover {
+    transform: scale(1.5);
+    color: black;
+}
+/*desaparecen los puntos de la lista*/
+.mad-widget ul {
+    list-style: none;
+}
+
+/*cetra los elementos*/
+.mad-footer .mad-widget {
+    font-size: inherit;
+    line-height: inherit;
+    text-align: center;
+    z-index: 1;
+    position: relative;
+}
+.mad-footer address {
+    font-style:normal;
+}
+
+/*-----TÏTULOS----*/
+h4 {
+    font-size: 2.5rem !important;
+    line-height: 3rem !important;
+}
+
+
+/*------CONTACT US-----*/
+.widget_contact_us{
+    padding-right: 25px;
+}
+.mad-social-icons{
+    padding-right: 30px;
+}
+.logo-footer{
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+
+/*-----ÍCONOS SOCIAL MEDIA------*/
+.social-icons{
+    display: flex;
+}
+.mad-social-icons ul li {
+    padding: 1rem 1rem 0;
+    font-size: 1.6rem;
+}
+
+/*------MENÚ-------*/
+.widget_nav_menu{
+    padding-left: -25px;
+}
+.menu{
+    padding-left: 5px;
+}
+
+/*------HORARIO-------*/
+.widget_open_time{
+    padding: -25px;
+    margin-bottom: 60px;
+}
+.mad-timetable{
+    padding-right: 38px;
+}
+/*-----COPYRIGHTS-----*/
+.copyrights {
+    margin-top: 4.25rem;
+    text-align: center;
+    font-size: 16px;
+}
+
+.copyrights a {
+    color: inherit;
+}

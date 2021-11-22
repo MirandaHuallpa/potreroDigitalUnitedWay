@@ -1,0 +1,42 @@
+.info-empresa{
+    padding: 20px;
+}
+/*Caja de los tres contenidos*/
+.info-empresa .elementor-widget-wrap{
+    flex-wrap: wrap;
+    min-height: 50vh;
+    font-size: 1.2rem;
+    padding: 30px;
+    text-align: center;
+}
+.info-empresa .elementor-column-wrap .horario{
+    background-color: #fc6d2c;
+    color: #FFFFFF;
+}
+.info-empresa h2{
+    font-size: 40px;
+    padding-bottom: 3rem;
+}
+
+/*DONDE ESTAMOS*/
+.info-empresa a{
+    color: #fc6d2c;
+    text-decoration: none;
+}
+/*CONTACTO*/
+.info-empresa .iconos-sociales > a{
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+/*Botón de reserva*/
+.elementor-widget-container{
+    margin-top: 30px;
+}
+.section-inner a{
+    padding: 10px 25px 10px 25px;
+    font-size: 1.12rem;
+    border-style:solid;
+    border-width: 3px;
+    border-color: #FFFFFF;
+}

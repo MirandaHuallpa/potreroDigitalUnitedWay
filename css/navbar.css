@@ -1,0 +1,21 @@
+/*foto principal*/
+.header {
+    background: url(../imagenes_profesionales/foto_principal_con_titulo.png) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.header .navbar {
+    background: rgba(0, 0, 0, 0.631);
+    font-family: 'Prata', serif;
+    z-index: 3;
+}
+
+/* Digital Ginés*/
+.navbar-text {
+    font-size: 20px;
+}
+.nav-item {
+    z-index: 3;
+}
+

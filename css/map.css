@@ -1,0 +1,8 @@
+.mapa {
+    padding: 30px;
+    background-color: rgb(250, 244, 244);
+}
+.map-responsive iframe{
+    height:469px;
+    width:100%;
+}
