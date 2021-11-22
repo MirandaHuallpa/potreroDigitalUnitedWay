@@ -20,5 +20,5 @@ Se enfoca en los platos típicos del país y en un lema: "Comer como en casa", d
 cliente y que deguste los platillos hechos por manos profesionales y a la vez caseros, más deliciosos de la zona.
 Tanto para los lugareños como para los turistas.
 
-<img src="imagenes_profesionales/logos/screenshots/screen1" width=200px>
+<img src="imagenes_profesionales/screenshots/screen1.png" width=200px>
 
