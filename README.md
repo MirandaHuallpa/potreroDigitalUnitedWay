@@ -25,7 +25,7 @@ Tanto para los lugareños como para los turistas.
   <li>HTML5</li>
   <li>CSS3</li>
   <li>y Bootstrap.</li>
-  <li>Además para diseñar los logos usé CANVAS</li>
+  <li>Además para diseñar los logos usé CANVA</li>
 </ul>
 
 
