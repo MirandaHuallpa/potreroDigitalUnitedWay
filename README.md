@@ -20,6 +20,13 @@ Se enfoca en los platos típicos del país y en un lema: "Comer como en casa", d
 cliente y que deguste los platillos hechos por manos profesionales y a la vez caseros, más deliciosos de la zona.
 Tanto para los lugareños como para los turistas.
 
+<p>En éste proyecto use:</p>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Bootstrap</li>
+</ul>
+
 <img src="imagenes_profesionales/screenshots/screen1.png">
 <img src="imagenes_profesionales/screenshots/screen2.png">
 <img src="imagenes_profesionales/screenshots/screen3.png">
